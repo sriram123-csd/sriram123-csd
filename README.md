@@ -57,6 +57,20 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 
+## 🚀 Projects
+
+### 🩺 [MedTrack-AWS](https://github.com/sriram123-csd/MedTrack-AWS.git)
+A cloud-integrated medical record management system that allows doctors and patients to securely access and manage medical data.
+
+**Tech:** Flask, AWS (DynamoDB, SNS), Python, HTML, CSS, JavaScript
+
+**Features:**
+- Secure doctor and patient login
+- Upload and access medical records
+- AWS DynamoDB for scalable storage
+- SNS integration for notifications
+- Real-time patient-doctor interaction interface
+
 
 ## 🎓 Education
 
