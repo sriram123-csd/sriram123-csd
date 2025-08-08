@@ -76,7 +76,7 @@ A cloud-integrated medical record management system that allows doctors and pati
 
 | Certificate Title                                    | Platform | Date     |
 |------------------------------------------------------|----------|----------|
-| [Data Science For Engineers](https://1drv.ms/b/c/508ae05691a87cbd/EXS-BhH693pIkU2OW-FgwjcBgpy8xqHRGEKCxxQK4VZxGA?e=slYcDc)                       | NPTEL     | March 2025 |
+| [Data Science For Engineers](https://1drv.ms/b/c/508ae05691a87cbd/EZd3cXAGBsNHt_0srZrJjY0BTuwUAxBJHEmcnjgvqN8s7g?e=OPbXNk)                       | NPTEL     | March 2025 |
 | [Cloud Computing](#)                                 | NPTEL    | Nov 2024 |
 | [Developing Frontend Apps with React JS](#)          | Coursera | Nov 2024 |
 | [Server Side JavaScript with Node JS](#)             | Coursera | Apr 2024 |
