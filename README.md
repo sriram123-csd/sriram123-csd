@@ -72,6 +72,22 @@ A cloud-integrated medical record management system that allows doctors and pati
 - Real-time patient-doctor interaction interface
 
 
+## 🪪 Certifications
+
+| Certificate Title                                    | Platform | Date     |
+|------------------------------------------------------|----------|----------|
+| [Data Science For Engineers](https://1drv.ms/b/c/508ae05691a87cbd/EXS-BhH693pIkU2OW-FgwjcBgpy8xqHRGEKCxxQK4VZxGA?e=slYcDc)                       | NPTEL     | March 2025 |
+| [Cloud Computing](#)                                 | NPTEL    | Nov 2024 |
+| [Developing Frontend Apps with React JS](#)          | Coursera | Nov 2024 |
+| [Server Side JavaScript with Node JS](#)             | Coursera | Apr 2024 |
+| [ChatGPT Playground for Beginners](#)                | Coursera | Apr 2024 |
+| [Prompt Engineering for ChatGPT](#)                  | Coursera | Feb 2024 |
+| [DSA - Deep Dive Using C](#)                         | E-Box    | Jun 2024 |
+| [DSA Mastery Specialization](#)                      | Coursera | Nov 2023 |
+| [C++ for Beginners](#)                               | Coursera | Oct 2023 |
+| [Python](#)                                          | Udemy    | Jan 2023 |
+
+
 ## 🎓 Education
 
 ### 🎓 Aditya Institute of Technology and Management , AP
