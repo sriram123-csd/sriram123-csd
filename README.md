@@ -79,7 +79,8 @@ A cloud-integrated medical record management system that allows doctors and pati
 | [Data Science For Engineers](https://1drv.ms/b/c/508ae05691a87cbd/EZd3cXAGBsNHt_0srZrJjY0BTuwUAxBJHEmcnjgvqN8s7g?e=OPbXNk)                       | NPTEL     | March 2025 |
 | [What is Data Science?](https://1drv.ms/b/c/508ae05691a87cbd/EXS-BhH693pIkU2OW-FgwjcBgpy8xqHRGEKCxxQK4VZxGA?e=UizteN)                                 | COURSERA    | Mar 2025 |
 | [Data Structures and Algorithm with C++](https://1drv.ms/b/c/508ae05691a87cbd/EYHf35zC-01MlVzrm9jm2y0B35tgIyMXOw6odTdaFoYl-A?e=pXBuPh)          | GFG | July 2024 |
-| [Server Side JavaScript with Node JS](#)             | Coursera | Apr 2024 |
+| [Data Science
+BootCamp - From Analysing Data To Creating ML Models](https://1drv.ms/b/c/508ae05691a87cbd/EdTc0QgKbehGl7k9xjD9ZmgBeL9Q1ZneAOYTQQVDfV3yCQ?e=khTL9s)             | GFG | Dec 2024 |
 | [ChatGPT Playground for Beginners](#)                | Coursera | Apr 2024 |
 | [Prompt Engineering for ChatGPT](#)                  | Coursera | Feb 2024 |
 | [DSA - Deep Dive Using C](#)                         | E-Box    | Jun 2024 |
