@@ -1,4 +1,4 @@
-+<h1 align="center">Hi 👋, I'm Sriramsai Tamire</h1>
+<h1 align="center">Hi 👋, I'm Sriramsai Tamire</h1>
 <h3 align="center">Aspiring Data Scientist & MERN Stack Developer | AWS Cloud Intern</h3>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 👜 About Me
 
 - 🎓 B.Tech CSE student at *Aditya Institute of Technology and Management (2022–2026)*
-- 💡 Passionate about **MERN Stack Web Development**, **Data Science**, and **AI&ML**
+- 💡 Passionate about **MERN Stack Web Development**, **Data Science**, and **AI & ML**
 - 💪 Strong in *DSA, JavaScript, React*
 - ☁ AWS Cloud Practitioner Intern with hands-on experience in foundational cloud concepts
 - 🎯 Problem-solving enthusiast with a top Hackos score on HackerRank
@@ -57,13 +57,14 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 
+---
+
 ## 🚀 Projects
 
-### 🩺 [MedTrack-AWS](https://github.com/sriram123-csd/MedTrack-AWS.git)
+### 🩺 [MedTrack-AWS](https://github.com/sriram123-csd/MedTrack-AWS.git)  
 A cloud-integrated medical record management system that allows doctors and patients to securely access and manage medical data.
 
-**Tech:** Flask, AWS (DynamoDB, SNS), Python, HTML, CSS, JavaScript
-
+**Tech:** Flask, AWS (DynamoDB, SNS), Python, HTML, CSS, JavaScript  
 **Features:**
 - Secure doctor and patient login
 - Upload and access medical records
@@ -71,26 +72,28 @@ A cloud-integrated medical record management system that allows doctors and pati
 - SNS integration for notifications
 - Real-time patient-doctor interaction interface
 
+---
 
 ## 🪪 Certifications
 
-| Certificate Title                                    | Platform | Date     |
-|------------------------------------------------------|----------|----------|
-| [Data Science For Engineers](https://1drv.ms/b/c/508ae05691a87cbd/EZd3cXAGBsNHt_0srZrJjY0BTuwUAxBJHEmcnjgvqN8s7g?e=OPbXNk)                       | NPTEL     | March 2025 |
-| [What is Data Science?](https://1drv.ms/b/c/508ae05691a87cbd/EXS-BhH693pIkU2OW-FgwjcBgpy8xqHRGEKCxxQK4VZxGA?e=UizteN)                                 | COURSERA    | Mar 2025 |
-| [Data Structures and Algorithm with C++](https://1drv.ms/b/c/508ae05691a87cbd/EYHf35zC-01MlVzrm9jm2y0B35tgIyMXOw6odTdaFoYl-A?e=pXBuPh)          | GFG | July 2024 |
-| [Data Science BootCamp - From Analysing Data To Creating ML Models](https://1drv.ms/b/c/508ae05691a87cbd/EdTc0QgKbehGl7k9xjD9ZmgBeL9Q1ZneAOYTQQVDfV3yCQ?e=khTL9s)             | GFG | Dec 2024 |
-| [ChatGPT Playground for Beginners](#)                | Coursera | Apr 2024 |
-| [Prompt Engineering for ChatGPT](#)                  | Coursera | Feb 2024 |
-| [DSA - Deep Dive Using C](#)                         | E-Box    | Jun 2024 |
-| [DSA Mastery Specialization](#)                      | Coursera | Nov 2023 |
-| [C++ for Beginners](#)                               | Coursera | Oct 2023 |
-| [Python](#)                                          | Udemy    | Jan 2023 |
+| Certificate Title | Platform | Date |
+|-------------------|----------|------|
+| [Data Science For Engineers](https://1drv.ms/b/c/508ae05691a87cbd/EZd3cXAGBsNHt_0srZrJjY0BTuwUAxBJHEmcnjgvqN8s7g?e=OPbXNk) | NPTEL | March 2025 |
+| [What is Data Science?](https://1drv.ms/b/c/508ae05691a87cbd/EXS-BhH693pIkU2OW-FgwjcBgpy8xqHRGEKCxxQK4VZxGA?e=UizteN) | COURSERA | Mar 2025 |
+| [Data Structures and Algorithm with C++](https://1drv.ms/b/c/508ae05691a87cbd/EYHf35zC-01MlVzrm9jm2y0B35tgIyMXOw6odTdaFoYl-A?e=pXBuPh) | GFG | July 2024 |
+| [Data Science BootCamp](https://1drv.ms/b/c/508ae05691a87cbd/EdTc0QgKbehGl7k9xjD9ZmgBeL9Q1ZneAOYTQQVDfV3yCQ?e=khTL9s) | GFG | Dec 2024 |
+| [ChatGPT Playground for Beginners](#) | Coursera | Apr 2024 |
+| [Prompt Engineering for ChatGPT](#) | Coursera | Feb 2024 |
+| [DSA - Deep Dive Using C](#) | E-Box | Jun 2024 |
+| [DSA Mastery Specialization](#) | Coursera | Nov 2023 |
+| [C++ for Beginners](#) | Coursera | Oct 2023 |
+| [Python](#) | Udemy | Jan 2023 |
 
+---
 
 ## 🎓 Education
 
-### 🎓 Aditya Institute of Technology and Management , AP
+### 🎓 Aditya Institute of Technology and Management, AP  
 *B.Tech in Computer Science and Data Science Engineering*  
 📅 Aug 2022 – Jul 2026
 
@@ -98,9 +101,15 @@ A cloud-integrated medical record management system that allows doctors and pati
 *Intermediate (MPC Stream)*  
 📅 Jun 2020 – Mar 2022 | 🏆 90.9%
 
-### 🏫 PSNM high School, Srikakulam, AP  
+### 🏫 PSNM High School, Srikakulam, AP  
 *Matriculation (10th Grade)*  
 📅 Jun 2019 – Mar 2020 | 🏆 96%
+
+---
+
+## 🔥 My Stats
+
+![Snake animation](https://github.com/sriram123-csd/sriram123-csd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
