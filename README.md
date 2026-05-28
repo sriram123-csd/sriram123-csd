@@ -73,6 +73,23 @@ A cloud-integrated medical record management system that allows doctors and pati
 - Real-time patient-doctor interaction interface
 
 ---
+### 🤖 [Colorectal Cancer Survival Prediction using MLOps](https://github.com/sriram123-csd/major_project.git)
+
+A healthcare-focused machine learning system that predicts 5-year survival outcomes for colorectal cancer patients using clinical, demographic, and lifestyle data through automated MLOps pipelines.
+
+**Tech:** Python, Flask, Scikit-learn, MLflow, Docker, Kubernetes, Kubeflow, DVC, AWS
+
+**Features:**
+
+* Predicts colorectal cancer survival outcomes using Machine Learning models
+* End-to-end MLOps workflow automation with Kubeflow Pipelines
+* Experiment tracking and model versioning using MLflow
+* Dockerized deployment with Kubernetes integration
+* Dataset and pipeline version control using DVC and Git
+* Scalable and reproducible AI healthcare pipeline
+* 
+---
+
 
 ## 🪪 Certifications
 
