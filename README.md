@@ -22,7 +22,7 @@
 
 - 🎓 B.Tech CSE student at *Aditya Institute of Technology and Management (2022–2026)*
 - 💡 Passionate about **MERN Stack Web Development**, **Data Science**, and **AI & ML**
-- 💪 Strong in *DSA, JavaScript, React*
+- 💪 Strong in *DSA, JavaScript, Sql*
 - ☁ AWS Cloud Practitioner Intern with hands-on experience in foundational cloud concepts
 - 🎯 Problem-solving enthusiast with a top Hackos score on HackerRank
 - 🧠 Actively solving Data Structures & Algorithms problems on LeetCode and GeeksforGeeks
